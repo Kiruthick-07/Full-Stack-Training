@@ -1,0 +1,43 @@
+#loginbox{
+    border-radius: 10px;
+    border-style: solid;
+    display: inline-block;
+    text-align: center;
+    margin-top: 20px;
+    padding: 50px;
+    background-color: whitesmoke;
+     width: 300px;
+  padding: 30px;
+  background: rgba(255, 255, 255, 0.1); /* Semi-transparent */
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(10px); /* Frosted glass effect */
+  -webkit-backdrop-filter: blur(10px); /* Safari support */
+  border-radius: 15px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: white;
+  text-align: center;
+  margin-top: 120px;
+    
+}
+#name,#psw{
+    border-radius: 10px;
+    border-style: solid;
+    padding: 10px;
+}
+button{
+    border-radius: 10px;
+    border-style: none;
+    padding: 10px;
+    color: wheat;
+    background-color: black;
+    cursor: pointer;
+}
+button:hover{
+    background-color: blue;
+}
+body{
+   background-color: #ffffff;
+   color: black;
+
+
+}
